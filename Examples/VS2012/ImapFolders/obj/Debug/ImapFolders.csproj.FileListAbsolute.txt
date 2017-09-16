@@ -1,0 +1,7 @@
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\bin\Debug\ImapFolders.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\bin\Debug\ImapFolders.pdb
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\obj\Debug\ImapFolders.csprojResolveAssemblyReference.cache
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\obj\Debug\ImapFolders.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapFolders\obj\Debug\ImapFolders.pdb

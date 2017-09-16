@@ -1,0 +1,9 @@
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\Attachment.txt
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\Lemon.jpg
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\SmtpSend.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\SmtpSend.pdb
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\obj\Debug\SmtpSend.csprojResolveAssemblyReference.cache
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\obj\Debug\SmtpSend.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpSend\obj\Debug\SmtpSend.pdb

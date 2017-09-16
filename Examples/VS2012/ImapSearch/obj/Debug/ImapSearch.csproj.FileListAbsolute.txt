@@ -1,0 +1,6 @@
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\bin\Debug\ImapSearch.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\bin\Debug\ImapSearch.pdb
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\obj\Debug\ImapSearch.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapSearch\obj\Debug\ImapSearch.pdb

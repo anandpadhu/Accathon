@@ -1,0 +1,8 @@
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\attachment.txt
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\Lemon.jpg
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\SmtpFluentSend.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\SmtpFluentSend.pdb
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\obj\Debug\SmtpFluentSend.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpFluentSend\obj\Debug\SmtpFluentSend.pdb

@@ -1,0 +1,9 @@
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\Attachment.txt
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\Lemon.jpg
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\TestCertificate.pfx
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\SignedEmails.exe
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\SignedEmails.pdb
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\obj\Debug\SignedEmails.exe
+C:\DesignPattern\Mail\Examples\VS2012\SignedEmails\obj\Debug\SignedEmails.pdb

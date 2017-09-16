@@ -1,0 +1,7 @@
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\bin\Debug\ImapDownload.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\bin\Debug\ImapDownload.pdb
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\obj\Debug\ImapDownload.exe
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\obj\Debug\ImapDownload.pdb
+C:\DesignPattern\Mail\Examples\VS2012\ImapDownload\obj\Debug\ImapDownload.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\bin\Debug\Pop3Download.exe
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\bin\Debug\Pop3Download.pdb
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\obj\Debug\Pop3Download.csprojResolveAssemblyReference.cache
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\obj\Debug\Pop3Download.exe
+C:\DesignPattern\Mail\Examples\VS2012\Pop3Download\obj\Debug\Pop3Download.pdb

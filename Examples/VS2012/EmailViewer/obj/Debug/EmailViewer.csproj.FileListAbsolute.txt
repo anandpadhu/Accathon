@@ -1,0 +1,14 @@
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\Order.eml
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\EmailViewer.exe
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\EmailViewer.pdb
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\MailBrowserControl.dll
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\ProtocolEx.dll
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\bin\Debug\MailBrowserControl.xml
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.csprojResolveAssemblyReference.cache
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.MainForm.resources
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.Properties.Resources.resources
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.csproj.GenerateResource.Cache
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.exe
+C:\DesignPattern\Mail\Examples\VS2012\EmailViewer\obj\Debug\EmailViewer.pdb

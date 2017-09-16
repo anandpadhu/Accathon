@@ -1,0 +1,9 @@
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\Attachment.txt
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\Lemon.jpg
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\Order.template
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\SmtpTemplates.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\SmtpTemplates.pdb
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\Mail.dll
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\bin\Debug\Mail.xml
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\obj\Debug\SmtpTemplates.exe
+C:\DesignPattern\Mail\Examples\VS2012\SmtpTemplates\obj\Debug\SmtpTemplates.pdb
